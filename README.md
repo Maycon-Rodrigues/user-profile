@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Page](https://raw.githubusercontent.com/Maycon-Rodrigues/user-profile/master/screenshot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
