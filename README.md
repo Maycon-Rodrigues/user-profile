@@ -2,7 +2,7 @@
 
 Just a page for user profile.
 
-<img src="https://github.com/Maycon-Rodrigues/user-profile/blob/master/screenshot.png" width="200"/>
+<img src="https://github.com/Maycon-Rodrigues/user-profile/blob/master/screenshot.png" width="400"/>
 
 ## Getting Started
 
