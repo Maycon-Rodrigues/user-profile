@@ -2,7 +2,7 @@
 
 Just a page for user profile.
 
-![Page](https://raw.githubusercontent.com/Maycon-Rodrigues/user-profile/master/screenshot.png = 100x200)
+![Page](https://raw.githubusercontent.com/Maycon-Rodrigues/user-profile/master/screenshot.png =100x200)
 
 ## Getting Started
 
