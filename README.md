@@ -3,7 +3,7 @@
 Just a page for user profile.
 
 ![Page](https://raw.githubusercontent.com/Maycon-Rodrigues/user-profile/master/screenshot.png | width=100)
-=
+
 ## Getting Started
 
 ### Download the application code
